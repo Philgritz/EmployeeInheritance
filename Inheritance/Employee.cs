@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Inheritance {
+namespace Inheritance { 
     public class Employee : Program {
 
         public string Name { get; set; }
